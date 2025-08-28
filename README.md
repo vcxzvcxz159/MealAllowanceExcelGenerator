@@ -18,8 +18,8 @@
 ### 생성된 식대 엑셀파일
 ---
 <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/5abeda17-7227-469e-a197-b3453a59dddc" />  
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/e08df3c5-8453-41bd-baec-7419c83f76c1" />  
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/bdd2ca2e-500c-4fc8-bb05-640f5d9632bb" />  
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/e08df3c5-8453-41bd-baec-7419c83f76c1" />  
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/bdd2ca2e-500c-4fc8-bb05-640f5d9632bb" />  
 
 
 
