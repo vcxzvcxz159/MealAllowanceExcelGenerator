@@ -4,7 +4,7 @@
 
 ### 사용법
 ---
-1. 카카오 택시의 '택시 이용 상세' 이미지를 특정 폴더에 넣습니다.
+1. 카카오 택시의 '택시 이용 상세' 이미지를 특정 폴더에 넣습니다.  
    <img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/1165bc1d-7c23-4fb8-bd8a-2e3d67ca9c05" />
   
 2. 식대 엑셀파일 생성기를 실행합니다.
@@ -17,9 +17,9 @@
 
 ### 생성된 식대 엑셀파일
 ---
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/5abeda17-7227-469e-a197-b3453a59dddc" />
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/e08df3c5-8453-41bd-baec-7419c83f76c1" />
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/bdd2ca2e-500c-4fc8-bb05-640f5d9632bb" />
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/5abeda17-7227-469e-a197-b3453a59dddc" />  
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/e08df3c5-8453-41bd-baec-7419c83f76c1" />  
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/bdd2ca2e-500c-4fc8-bb05-640f5d9632bb" />  
 
 
 
